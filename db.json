@@ -1,0 +1,37 @@
+{
+  "people": [
+    {
+      "id": "7132",
+      "name": "Grace Church",
+      "number": "299-485-2911",
+      "important": true
+    },
+    {
+      "id": "a185",
+      "name": "Jack Church",
+      "number": "930-485-1208",
+      "important": true
+    },
+    {
+      "id": "f95a",
+      "name": "Max Church",
+      "number": "553-394-4958",
+      "important": true
+    },
+    {
+      "id": "8fcb",
+      "name": "Nick Church",
+      "number": "294-294-4585"
+    },
+    {
+      "id": "e6cc",
+      "name": "Ruby Church",
+      "number": "244-156-0892"
+    },
+    {
+      "id": "dc17",
+      "name": "Holly Church",
+      "number": "230489"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+h3, h2 {
+    color: green;
+    font-style: italic;
+}
+
+.list-people {
+    color: grey;
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+.error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.success {
+    color: green;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
